@@ -7,4 +7,4 @@ Tasks:
 <br>
 <a href="" target="_blank"> 02.1: Prototyping-Tool </a>
 <br>
-<a href="" target="_blank"> 02.2: Konzeptentwurf </a>
+<a href="https://elenafaller.github.io/IFD-WiSe20-21/Task0/Konzeptentwurf-2.2.pdf" target="_blank"> 02.2: Konzeptentwurf </a>
