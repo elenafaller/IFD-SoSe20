@@ -27,6 +27,6 @@ Durch die strukturierte Ansicht und Ebenenfunktion hat man einen guten Überblic
 
 Es besteht zwar die Möglichkeit, verschiedene Events für interaktive Anwendungen zu benutzen, diese sind jedoch weitgehend begrenzt. Hier fehlen unter anderem Event-Trigger wie beispielsweise onChange. Außerdem sind die Ladezeiten, vor allem beim Öffnen eines Projektes, verhältnismäßig lange. Die Nutzung aller Funktionen des Tools ist zudem kostenpflichtig.
 
-![](Vergleich.jpeg)
+![](Vergleich.jpg)
 
 Quelle: [Justinmind.com](https://www.justinmind.com/)
