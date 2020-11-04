@@ -9,5 +9,5 @@ Tasks:
 <br>
 <a href="https://elenafaller.github.io/IFD-WiSe20-21/Task02/Konzeptentwurf-2.2.pdf" target="_blank"> 02.2: Konzeptentwurf </a>
 <br>
-<a href=> 03.1: High-Fid Prototype </a>
+<a href="https://xd.adobe.com/view/514be808-b216-47d1-b0e1-902bb7ad219f-0418/?fullscreen&hints=off" target="_blank"> 03.1: High-Fid Prototype </a>
 
