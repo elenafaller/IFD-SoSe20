@@ -11,4 +11,4 @@ Tasks:
 <br>
 <a href="https://xd.adobe.com/view/514be808-b216-47d1-b0e1-902bb7ad219f-0418/?fullscreen&hints=off" target="_blank"> 03.1: High-Fid Prototype </a>
 <br>
-<a href="https://elenafaller.github.io/IFD-WiSe20-21/Task 04/InterfaceDesign-Konzeptentwurf-Vui-#04" target="_blank"> 04: Konzeptentwurf - VUI </a>
+<a href="https://elenafaller.github.io/IFD-WiSe20-21/Task 04/InterfaceDesign-Konzeptentwurf-Vui-#04.pdf" target="_blank"> 04: Konzeptentwurf - VUI </a>
