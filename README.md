@@ -13,5 +13,6 @@ Tasks:
 <br>
 <a href="https://elenafaller.github.io/IFD-WiSe20-21/Task04/InterfaceDesign-VUI-04-V2.pdf" target="_blank"> 04: Konzeptentwurf - VUI </a>
 <br>
-<a href="https://webuser.hs-furtwangen.de/~fallerel/InterfaceDesign/Aufgabe5/playground-artyom.html" target="_blank"> 05: VUI - High Fid Prototpye</a>
+<a href="https://elenafaller.github.io/IFD-WiSe20-21/Task05/VUI-Screencast.mp4" target="_blank"> 05: VUI - Screencast </a><br>
+
 
