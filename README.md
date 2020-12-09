@@ -23,7 +23,7 @@
 <a href="https://elenafaller.github.io/IFD-WiSe20-21/Task05/VUI-Screencast.mp4" target="_blank"> VUI - Screencast </a><br>
 
 ## Task 06
-<a href="https://elenafaller.github.io/IFD-WiSe20-21/Task08/DokumentationTask08.html" target="_blank"> Dokumentation VR-Cardboard Brille</a>
+<a href="https://elenafaller.github.io/IFD-WiSe20-21/Task06/DokumentationTask08.html" target="_blank"> Dokumentation VR-Cardboard Brille</a>
 
 
 
