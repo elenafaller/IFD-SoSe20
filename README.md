@@ -25,5 +25,8 @@
 ## Task 06
 <a href="https://elenafaller.github.io/IFD-WiSe20-21/Task06/DokumentationTask06.html" target="_blank"> Dokumentation VR-Cardboard Brille</a>
 
+## Task 07
+<a href="https://elenafaller.github.io/IFD-WiSe20-21/Task06/DokumentationTask06.html" target="_blank"> Dokumentation VR-Konzeption </a>
+<a https://drive.google.com/file/d/1CEIZLjL8hplm_FtYh03avJ4eG6cRBRJD/view?usp=sharing" target="_blank"> Video-Prototype </a>
 
 
